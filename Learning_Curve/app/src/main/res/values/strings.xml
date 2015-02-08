@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">Learning_Curve</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="edit_message">The learning curve begins!!!!</string>
-    <string name="action_settings">Settings</string>
-
-</resources>
